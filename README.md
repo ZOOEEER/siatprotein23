@@ -1,2 +1,3 @@
 # siatprotein23
-For submit the code
+To submit the code.
+For ifeature, download the newest code at https://github.com/Superzchen/iFeature.
